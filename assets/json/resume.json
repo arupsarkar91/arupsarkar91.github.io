@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Arup Sarkar",
+    "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "arupsarkar1398@gmail.com",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://arupsarkar91/arupsarkar91.github.io/",
+    "summary": "An Indian-born theoretical chemist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "16 Bidhan Roy Pally",
+      "postalCode": "700056",
+      "city": "Kolkata",
+      "countryCode": "India",
+      "region": "West Bengal"
     },
     "profiles": [
       {
