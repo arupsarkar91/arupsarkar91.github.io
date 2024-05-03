@@ -294,7 +294,7 @@ scholar:
   last_name: [Sarkar]
   first_name: [Arup]
 
-  style: apa
+  style: acs
   locale: en
 
   source: /_bibliography/
