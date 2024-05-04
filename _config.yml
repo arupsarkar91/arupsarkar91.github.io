@@ -309,6 +309,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
+  details_layout: bibtex.html
   details_link: Details
 
   query: "@*"
@@ -325,19 +326,9 @@ enable_publication_badges:
 filtered_bibtex_keywords:
   [
     abbr,
-    volume,
-    number,
     abstract,
-    publisher,
-    doi,
-    altmetric,
     arxiv,
-    award,
-    award_name,
     bibtex_show,
-    ISBN,
-    ISSN,
-    code,
     html,
     pdf,
     poster,
