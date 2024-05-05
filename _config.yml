@@ -328,16 +328,20 @@ filtered_bibtex_keywords:
     abbr,
     abstract,
     arxiv,
+    blog,
     bibtex_show,
+    URL,
     html,
     pdf,
     poster,
     preview,
     selected,
     slides,
+    poster,
     supp,
     video,
     website,
+    altmetric,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
