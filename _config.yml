@@ -85,7 +85,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: arup-sarkar-1b3b4513a # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id:  0000-0002-6880-8220 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -328,11 +328,16 @@ filtered_bibtex_keywords:
     abbr,
     abstract,
     arxiv,
-    blog,
     bibtex_show,
+    blog,
+    code, 
+    dimensions,
+    doi,
     URL,
     html,
     pdf,
+    ISBN,
+    pmid, 
     poster,
     preview,
     selected,
