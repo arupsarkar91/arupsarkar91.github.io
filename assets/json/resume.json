@@ -28,21 +28,20 @@
       "position": "Postdoctoral Researcher",
       "url": "https://www2.mpip-mainz.mpg.de/~andrienk/people/sarkar/",
       "startDate": "2023-11-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "present",
+      "summary": "Investigating perovskites and its solar cell application using DFT",
+      "highlights": ["Prevoskite"]
     }
   ],
-  "volunteer": [
+  "work": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "The University of Chicago",
+      "position": "Postdoctoral Researcher",
+      "url": "https://gagliardigroup.uchicago.edu/previous-members/",
+      "startDate": "2021-10-01",
+      "endDate": "2023-09-30",
+      "summary": "Investigated spin-crossover properties in a Cr-dimer using multiconfiguration pair-dendity functional theory (MC-PDFT).",
+      "highlights": ["Sarkar, A. et. al.,J. Am. Chem. Soc. 2023, 145, 41, 22394–22402"]
     }
   ],
   "education": [
@@ -60,11 +59,11 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "MMSCA Postdoctoral Fellowship",
+      "date": "2024-10-01",
+      "awarder": "Marie Skłodowska-Curie Actions",
+      "url": "https://ambercentre.ie/msca-postdoctoral-fellowship-for-amber-researchers/",
+      "summary": "AMBER researchers and supervisors have been successful in the 2023 MSCA Postdoctoral Fellowship Awards. Marie Skłodowska-Curie Actions Postdoctoral Fellowships support career perspectives and excellence of postdoctoral researchers.'"
     }
   ],
   "certificates": [
