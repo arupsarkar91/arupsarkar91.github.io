@@ -68,9 +68,9 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Council for Scientific and Industrial Research (CSIR)",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "CSIR-INDIA",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
@@ -177,12 +177,12 @@
   ],
   "references": [
     {
-      "name": "Professor Gopalan Rajaraman",
+      "name": "Prof. Gopalan Rajaraman",
       "icon": "fa-solid fa-laptop",
       "reference": "Department of Chemistry, IIT Bombay, Email: rajaraman@chem.iitb.ac.in"
     },
     {
-      "name": "Professor Laura Gagliardi",
+      "name": "Prof. Laura Gagliardi",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Richard and Kathy Leventhal Professor of Chemistry and Molecular Engineering, The University of Chicago, 5735 S Ellis Ave, Chicago, IL, USA. Email: lgagliardi@uchicago.edu"
     }
