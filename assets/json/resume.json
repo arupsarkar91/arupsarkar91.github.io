@@ -3,7 +3,7 @@
     "name": "Arup Sarkar",
     "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "sarkara@mpip-mainz.mpg.de, arupsarkar1398@gmail.com",
+    "email": "sarkara@mpip-mainz.mpg.de; arupsarkar1398@gmail.com",
     "phone": "+49 6131 379-146",
     "url": "https://arupsarkar91/arupsarkar91.github.io/",
     "summary": "Computational Chemist",
@@ -59,6 +59,13 @@
   ],
   "awards": [
     {
+      "title": "CSIR-UGC NET",
+      "date": "2014-06-14",
+      "awarder": "Council for Scientific and Industrial Research",
+      "url": "https://www.csir.res.in/",
+      "summary": "Awarded CSIR Junior Research Fellowship in July 2015 and Senior Research Fellowship in August 2017."
+    },
+    {
       "title": "MSCA Postdoctoral Fellowship",
       "date": "2024-02-14",
       "awarder": "Marie Skłodowska-Curie Actions",
@@ -66,12 +73,12 @@
       "summary": "AMBER researchers and supervisors have been successful in the 2023 MSCA Postdoctoral Fellowship Awards. Marie Skłodowska-Curie Actions Postdoctoral Fellowships support career perspectives and excellence of postdoctoral researchers."
     }
   ],
-  "certificates": [
+  "conferences": [
     {
       "name": "Council for Scientific and Industrial Research (CSIR)",
       "date": "2018-01-01",
       "issuer": "CSIR-INDIA",
-      "url": "https://example.com",
+      "url": "",
       "icon": "fa-solid fa-location-dot"
     },
     {
