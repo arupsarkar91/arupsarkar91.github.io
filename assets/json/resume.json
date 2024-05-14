@@ -46,24 +46,24 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Indian Institute of Technology Bombay",
+      "location": "Maharashtra, India",
+      "url": "https://www.iitb.ac.in/",
+      "area": "Computational Chemistry, Molecular Magnetism, Multireference methods",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2015-07-15",
+      "endDate": "2021-02-28",
+      "score": "9.44",
+      "courses": ["Molecular spectroscopy, Symmetry in Chemistry, Inorganic complexes, Quantum Chemistry"]
     }
   ],
   "awards": [
     {
-      "title": "MMSCA Postdoctoral Fellowship",
+      "title": "MSCA Postdoctoral Fellowship",
       "date": "2024-10-01",
       "awarder": "Marie Skłodowska-Curie Actions",
       "url": "https://ambercentre.ie/msca-postdoctoral-fellowship-for-amber-researchers/",
-      "summary": "AMBER researchers and supervisors have been successful in the 2023 MSCA Postdoctoral Fellowship Awards. Marie Skłodowska-Curie Actions Postdoctoral Fellowships support career perspectives and excellence of postdoctoral researchers.'"
+      "summary": "AMBER researchers and supervisors have been successful in the 2023 MSCA Postdoctoral Fellowship Awards. Marie Skłodowska-Curie Actions Postdoctoral Fellowships support career perspectives and excellence of postdoctoral researchers."
     }
   ],
   "certificates": [
