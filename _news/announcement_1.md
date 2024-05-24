@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Participated in the Perovskite SPP (SPP 2196) workshop at Stuttgart workshop {https://www.perovskite-spp.uni-konstanz.de/spp-workshops-events/spp-workshop-feb-march-2024/}.
+Participated in the Perovskite SPP (SPP 2196) workshop at Stuttgart workshop <a href="https://www.perovskite-spp.uni-konstanz.de/spp-workshops-events/spp-workshop-feb-march-2024">link</a>
