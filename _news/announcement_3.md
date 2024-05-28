@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Had an amazing time and activity at the MPI-P Theory group retreat at the Ringberg castle.
+Had an amazing time and refreshment at the MPI-P Theory group retreat at the Ringberg castle in Munich.
