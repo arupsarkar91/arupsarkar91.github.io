@@ -179,7 +179,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -317,7 +317,7 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
   dimensions: true # Dimensions badge (https://badge.dimensions.ai/)
-  google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
