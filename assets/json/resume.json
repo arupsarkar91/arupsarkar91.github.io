@@ -202,6 +202,16 @@
       "name": "Prof. Laura Gagliardi",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Richard and Kathy Leventhal Professor of Chemistry and Molecular Engineering, The University of Chicago, 5735 S Ellis Ave, Chicago, IL, USA. Email: lgagliardi@uchicago.edu"
+    },
+    {
+      "name": "Prof. Euan K. Brechin",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Professor of Coordination Chemistry, EaStCHEM School of Chemistry, The University of Edinburgh, David Brewster Road, Edinburgh, EH93FJ, Scotland UK . Email: e.brechin@ed.ac.uk"
+    },
+    {
+      "name": "Prof. Maheswaran Shanmugam",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Department of Chemistry, IIT Bombay, Email: eswar@chem.iitb.ac.in"
     }
   ],
   "projects": [
