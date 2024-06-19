@@ -37,8 +37,16 @@
       "url": "https://gagliardigroup.uchicago.edu/previous-members/",
       "startDate": "2021-10-01",
       "endDate": "2023-09-30",
-      "summary": "Investigated spin-crossover properties in a Cr-dimer using multiconfiguration pair-dendity functional theory (MC-PDFT).",
+      "summary": "Investigated spin-crossover properties in a Cr-dimer using multiconfiguration pair-density functional theory (MC-PDFT).",
       "highlights": ["Sarkar, A. et. al.,J. Am. Chem. Soc. 2023, 145, 41, 22394–22402"]
+    },
+    {
+      "name": "Indian Institute of Technology Bombay",
+      "position": "Institute Postdoctoral Fellow",
+      "startDate": "2021-03-01",
+      "endDate": "2021-08-31",
+      "summary": "Investigated the magnetic interactions in Metallo-supramolecular M4L6 tetrahedral cages",
+      "highlights": ["Scott J. Aron et. al., Chem. Sci., 2021, 12, 5134-5142"]
     }
   ],
   "education": [
