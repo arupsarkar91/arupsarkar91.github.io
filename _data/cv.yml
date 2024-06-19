@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Arup Sarkar
     - name: Date of Birth
-      value: 14th March 1879
+      value: 26th September 1991
     - name: Languages
-      value: English, German
+      value: Bnegali, Hindi, English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Indian Institute of Technology Bombay, India
+      year: 2021
       description:
         - Description 1.
         - Description 2.
