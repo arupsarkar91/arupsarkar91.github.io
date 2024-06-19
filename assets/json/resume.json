@@ -163,7 +163,7 @@
   "languages": [
     {
       "language": "Bengali",
-      "fluency": "Native language",
+      "fluency": "Native speaker",
       "icon": ""
     },
     {
@@ -217,6 +217,16 @@
       "name": "Prof. Maheswaran Shanmugam",
       "icon": "fa-solid fa-laptop",
       "reference": "Department of Chemistry, IIT Bombay, Email: eswar@chem.iitb.ac.in"
+    },
+    {
+      "name": "Prof. Achintya Kumar Dutta",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Department of Chemistry, IIT Bombay, Email: achintya@chem.iitb.ac.in"
+    },
+    {
+      "name": "Prof. John S. Anderson",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Department of Chemistry, The University of Chicago, Email: jsanderson@uchicago.edu"
     }
   ],
   "projects": [
