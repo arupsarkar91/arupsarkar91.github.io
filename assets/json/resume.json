@@ -231,12 +231,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Molecular Magnetism",
+      "summary": "Investigation of the origin of magnetic anisotropy and magnetic exchange in transition metal and lanthanide-based coordination complexes using DFT and ab initio (CASSCF/NEVPT2) methods.",
+      "highlights": ["Arup Sarkar, Sourav Dey and Gopalan Rajaraman*, Chem. Eur. J. 2020, 26, 14036-14058"],
+      "startDate": "2015-08-01",
+      "endDate": "2021-02-28",
+      "url": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003211"
     }
   ]
 }
