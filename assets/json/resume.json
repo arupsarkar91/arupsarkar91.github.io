@@ -235,6 +235,12 @@
       "name": "Prof. John S. Anderson",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Department of Chemistry, The University of Chicago, Email: jsanderson@uchicago.edu"
+    },
+    {
+      "name": "Prof. Denis Andrienko",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Organics Electronics (Department: Blom Group), Max Planck Institute for Polymer Research, Email: denis.andrienko@mpip-mainz.mpg.de",
+      "url": "https://www2.mpip-mainz.mpg.de/~andrienk/"
     }
   ],
   "projects": [
