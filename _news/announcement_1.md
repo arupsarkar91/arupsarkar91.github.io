@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-28 15:59:00-0400
+date: 2024-09-10 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Participated in the [Perovskite SPP (SPP 2196) workshop](https://www.perovskite-spp.uni-konstanz.de/spp-workshops-events/spp-workshop-feb-march-2024){:target="_blank"} at Stuttgart.
+New paper accepted in Chem. Sci. [A Homoleptic Fe(IV) Ketimide Complex with a Low-Lying Excited State](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc04880f){:target="_blank"}.
