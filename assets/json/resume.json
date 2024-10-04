@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Arup Sarkar",
-    "label": "Postdoctoral Researcher",
+    "label": "Marie Skłodowska-Curie Postdoctoral Fellow",
     "image": "",
-    "email": "sarkara@mpip-mainz.mpg.de; arupsarkar1398@gmail.com",
-    "phone": "+49 6131 379-146",
+    "email": "arsarkar@tcd.ie; arupsarkar1398@gmail.com",
+    "phone": "+353 899704338",
     "url": "https://arupsarkar91.github.io/",
     "summary": "Computational Chemist",
     "location": {
-      "address": "Ackermannweg 10",
-      "postalCode": "55128",
-      "city": "Mainz",
-      "countryCode": "Germany",
+      "address": "8 Pearse Stree, Trinity College Dublin",
+      "postalCode": "D02",
+      "city": "Dublin",
+      "countryCode": "Ireland",
       "region": "Europe"
     },
     "profiles": [
@@ -24,10 +24,19 @@
   },
   "work": [
     {
+      "name": "School of Physics, Trinity College Dublin",
+      "position": "Marie Skłodowska-Curie Postdoctoral Fellow",
+      "url": "https://www.tcd.ie/physics/research/groups/quantum-materials-dynamics/group/",
+      "startDate": "2024-10-01",
+      "summary": "Spin-phonon coupling in magnetic materials",
+      "highlights": ["Lattice Dynamics"]
+    },
+    {
       "name": "Max Planck Institute for Polymer Research",
       "position": "Postdoctoral Researcher",
-      "url": "https://www2.mpip-mainz.mpg.de/~andrienk/people/sarkar/",
+      "url": "https://pages-andrienko-10bcaa2045685d6c9509367c68ef5f030a701b968e1f8e8.pages.mpip-mainz.mpg.de/",
       "startDate": "2023-11-01",
+      "endDate": "2024-09-30",
       "summary": "Investigating perovskites and its solar cell application using DFT",
       "highlights": ["Prevoskite"]
     },
