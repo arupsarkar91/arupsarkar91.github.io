@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. School of Physics, Trinity College Dubli
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_cropped.jpg
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
