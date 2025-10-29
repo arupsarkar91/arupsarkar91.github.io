@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 2025-06-05 07:59:00-0400
+date: 2025-10-27 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Hosted and presented a poster at [4th European Conference on Molecular Spintronics](https://www.tcd.ie/physics/conferences/ecmols-2025/){:target="_blank"} held at Trinity College Dublin, Ireland.
+Attended and presented a poster at [19th International Conference on Molecular Magnetism](https://icmm2025.sciencesconf.org/){:target="_blank"} held at Bordeaux, France.
 
