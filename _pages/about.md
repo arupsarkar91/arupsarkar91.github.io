@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Assistant Professor, SRM University AP
+subtitle: <a href='#'>Affiliations</a>. Assistant Professor, SRM University, Andhra Pradesh, India
 
 profile:
   align: right
