@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Arup Sarkar",
-    "label": "Marie Skłodowska-Curie Postdoctoral Fellow",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "arsarkar@tcd.ie; arupsarkar1398@gmail.com",
-    "phone": "+353 899704338",
-    "url": "https://arupsarkar91.github.io/",
+    "email": "arup.s@srmap.edu.in; arupsarkar1398@gmail.com",
+    "phone": "+91 9674047523",
+    "url": "https://www.srmap.edu.in/faculty/arup-sarkar/",
     "summary": "Computational Chemist",
     "location": {
-      "address": "8 Pearse Stree, Trinity College Dublin",
-      "postalCode": "D02",
-      "city": "Dublin",
-      "countryCode": "Ireland",
-      "region": "Europe"
+      "address": "SRM University, Amaravati, Andhra Pradesh",
+      "postalCode": "522240",
+      "city": "Mangalagiri",
+      "countryCode": "India",
+      "region": "Asia"
     },
     "profiles": [
       {
@@ -28,6 +28,7 @@
       "position": "Marie Skłodowska-Curie Postdoctoral Fellow",
       "url": "https://www.tcd.ie/physics/research/groups/quantum-materials-dynamics/group/",
       "startDate": "2024-10-01",
+      "endDate": "2026-03-31",
       "summary": "Spin-phonon coupling in magnetic materials",
       "highlights": ["Lattice Dynamics"]
     },
