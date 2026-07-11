@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Started as a [Marie Skłodowska-Curie Postdoctoral Fellow](https://www.tcd.ie/news_events/articles/2024/trinity-success-in-2023-marie-skodowska-curie-postdoctoral-fellowships-results/){:target="_blank"}. from October 2024 at Trinity College Dublin, Ireland. 
+Started as an [Assistant Professor](https://www.srmap.edu.in/faculty/arup-sarkar/){:target="_blank"} from April 2026 at the Centre for Interdisciplinary Research, SRM University AP. 
 
